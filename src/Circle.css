@@ -1,0 +1,16 @@
+.circle{
+    border: 2px solid black;
+    height: 5rem;
+    margin: 1rem 45%;
+    width: 5rem;
+    border-radius: 100px;
+}
+
+.circle-grey{
+    border: 2px solid black;
+    height: 5rem;
+    margin: 1rem 45%;
+    width: 5rem;
+    border-radius: 100px;
+    background-color: grey;
+}
